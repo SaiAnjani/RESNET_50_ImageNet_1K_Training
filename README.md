@@ -83,17 +83,9 @@ This repository contains code to train a ResNet-50 model on the ImageNet-1K data
 
 ## Training Logs
 
-Test Error:
-Accuracy: 0.1%, Avg loss: 78.984073
-value of epoch is 0
-Test Error:
-Accuracy: 7.9%, Avg loss: 11.382029
-value of epoch is 1
-Test Error:
-Accuracy: 15.4%, Avg loss: 4.622222
-value of epoch is 2
-Test Error:
-Accuracy: 25.0%, Avg loss: 3.720075
+- value of epoch is 0 Test Error:Accuracy: 7.9%, Avg loss: 11.382029
+- value of epoch is 1 Test Error:Accuracy: 15.4%, Avg loss: 4.622222
+- value of epoch is 2 Test Error:Accuracy: 25.0%, Avg loss: 3.720075
 value of epoch is 3
 Test Error:
 Accuracy: 25.3%, Avg loss: 3.706519
