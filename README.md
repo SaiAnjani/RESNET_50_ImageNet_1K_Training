@@ -86,30 +86,14 @@ This repository contains code to train a ResNet-50 model on the ImageNet-1K data
 - value of epoch is 0 Test Error:Accuracy: 7.9%, Avg loss: 11.382029
 - value of epoch is 1 Test Error:Accuracy: 15.4%, Avg loss: 4.622222
 - value of epoch is 2 Test Error:Accuracy: 25.0%, Avg loss: 3.720075
-value of epoch is 3
-Test Error:
-Accuracy: 25.3%, Avg loss: 3.706519
-value of epoch is 4
-Test Error:
-Accuracy: 31.9%, Avg loss: 3.246583
-value of epoch is 5
-Test Error:
-Accuracy: 28.4%, Avg loss: 3.539784
-value of epoch is 6
-Test Error:
-Accuracy: 33.0%, Avg loss: 3.209344
-value of epoch is 7
-Test Error:
-Accuracy: 28.4%, Avg loss: 3.575979
-value of epoch is 8
-Test Error:
-Accuracy: 33.6%, Avg loss: 3.177567
-value of epoch is 9
-Test Error:
-Accuracy: 28.0%, Avg loss: 3.611734
-value of epoch is 10
-Test Error:
-Accuracy: 29.9%, Avg loss: 3.442933
+- value of epoch is 3 Test Error:Accuracy: 25.3%, Avg loss: 3.706519
+- value of epoch is 4 Test Error:Accuracy: 31.9%, Avg loss: 3.246583
+- value of epoch is 5 Test Error:Accuracy: 28.4%, Avg loss: 3.539784
+- value of epoch is 6 Test Error:Accuracy: 33.0%, Avg loss: 3.209344
+- value of epoch is 7 Test Error:Accuracy: 28.4%, Avg loss: 3.575979
+- value of epoch is 8 Test Error:Accuracy: 33.6%, Avg loss: 3.177567
+- value of epoch is 9 Test Error:Accuracy: 28.0%, Avg loss: 3.611734
+- value of epoch is 10 Test Error:Accuracy: 29.9%, Avg loss: 3.442933
 value of epoch is 11
 Test Error:
 Accuracy: 34.9%, Avg loss: 3.119334
@@ -342,3 +326,38 @@ value of epoch is 87
 Test Error:
 Accuracy: 65.2%, Avg loss: 1.490366
 value of epoch is 88
+Test Error:
+Accuracy: 65.8%, Avg loss: 1.477603
+value of epoch is 89
+Test Error:
+Accuracy: 65.5%, Avg loss: 1.482135
+value of epoch is 90
+Test Error:
+Accuracy: 66.4%, Avg loss: 1.441268
+value of epoch is 91
+Test Error:
+Accuracy: 66.9%, Avg loss: 1.424808
+value of epoch is 92
+Test Error:
+Accuracy: 66.7%, Avg loss: 1.425573
+value of epoch is 93
+Test Error:
+Accuracy: 67.1%, Avg loss: 1.412974
+value of epoch is 94
+Test Error:
+Accuracy: 66.9%, Avg loss: 1.420117
+value of epoch is 95
+Test Error:
+Accuracy: 67.2%, Avg loss: 1.416592
+value of epoch is 96
+Test Error:
+Accuracy: 67.2%, Avg loss: 1.416405
+value of epoch is 97
+Test Error:
+Accuracy: 66.8%, Avg loss: 1.412191
+value of epoch is 98
+Test Error:
+Accuracy: 67.0%, Avg loss: 1.420147
+value of epoch is 99
+Test Error:
+Accuracy: 66.9%, Avg loss: 1.418949
